@@ -1,8 +1,7 @@
 # Miembros
-
+* Capitan Americas
 * Black panther
 * Black Widow
-* Capitán America
 * Capitán Marvel
 * Falcon
 * Hank Pym
